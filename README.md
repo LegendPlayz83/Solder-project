@@ -11,9 +11,9 @@ Schematic View- <br>
 <img width="620" alt="Schematic" src="https://github.com/user-attachments/assets/cb03b0de-a667-42b1-a791-69c7ec757203" />
 <br>
 BOM-
-2x LED
-2x Resistors
-1x Cell Holder
-
-Slack Username - Aditya
-Slack ID - U04AKUFC402
+2x LED <br>
+2x Resistors <br>
+1x Cell Holder <br>
+<br>
+Slack Username - Aditya <br>
+Slack ID - U04AKUFC402 <br>
