@@ -10,7 +10,7 @@ PCB View- <br>
 Schematic View- <br>
 <img width="620" alt="Schematic" src="https://github.com/user-attachments/assets/cb03b0de-a667-42b1-a791-69c7ec757203" />
 <br>
-BOM-
+BOM- <br>
 2x LED <br>
 2x Resistors <br>
 1x Cell Holder <br>
